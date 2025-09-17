@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/1iEZoW8QdJBuVI9hBKc2-kF90hmom7ZSK#scroll
 
 
 
-#PENDAHULUAN
+# PENDAHULUAN
 Dataset Titanic merupakan salah satu dataset klasik dalam dunia data science. Dataset ini berisi informasi penumpang kapal Titanic, termasuk umur, jenis kelamin, kelas tiket, tarif, dan status kelangsungan hidup (survived). Analisis ini bertujuan untuk menemukan pola dari data penumpang yang mungkin berhubungan dengan peluang bertahan hidup.
 
  #PENGECEKAN DATA AWAL
