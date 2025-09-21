@@ -29,9 +29,10 @@ Heatmap korelasi menunjukkan:
 	•	age tidak memiliki korelasi kuat dengan survived.
 
 # HUBUNGAN ANTAR VARIABEL
+
  • Survival vs Age (histogram & boxplot): Tidak ada perbedaan signifikan umur antara yang selamat dan tidak selamat.
 	•	Scatter plot Age vs Fare dengan hue Survived: Terlihat bahwa banyak penumpang dengan tarif lebih tinggi (kelas atas) memiliki peluang lebih besar untuk selamat.
-	•	Pairplot (age, fare, pclass): Memperlihatkan pola jelas bahwa kelas tiket dan harga sangat memengaruhi survival.
+	•	Embarkasi vs survival: menunjukkan bahwa tingkat kematian dan keselamatan tertinggi berasal dari pelabuhan Southampton
 
 # KESIMPULAN SEMENTARA
  1. Dataset Titanic memiliki missing values signifikan pada age dan deck.
